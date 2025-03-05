@@ -1,6 +1,6 @@
 # LegoWish
 
-LEGO sets & themes database (1949-2023) and wishlist app
+LEGO sets & themes database and wishlist app
 
  ## 💻 Built With
 
