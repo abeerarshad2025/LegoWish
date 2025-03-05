@@ -1,4 +1,8 @@
-# LegoWish
+<div align="center">
+  <h1>LegoWish</h1>
+  <img src="LEGO Sets & Themes Database (1949-2023).jpg" align="center"/>
+  <br/><br/>
+</div>
 
 LEGO sets & themes database and wishlist app
 
