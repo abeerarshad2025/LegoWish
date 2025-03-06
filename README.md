@@ -17,6 +17,8 @@ LEGO sets & themes database and wishlist app
  | **Backend**       | PHP
  | **Database**      | MySQL
 
+---
+
  ## 📅 Update History / Milestones
 
  #### 📝 5 Mar 2025
