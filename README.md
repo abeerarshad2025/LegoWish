@@ -7,6 +7,8 @@ LEGO sets & themes database and wishlist app
   <br/><br/>
 </div>
 
+---
+
  ## 💻 Built With
 
  | Area              | Technologies
