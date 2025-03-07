@@ -13,7 +13,7 @@ LEGO sets & themes database and wishlist app
 
  | Area              | Technologies
  | ----------------- | -----------------
- | **Frontend**      | HTML5, CSS3, JavaScript
+ | **Frontend**      | HTML5, CSS3, JavaScript, jQuery
  | **Backend**       | PHP
  | **Database**      | MySQL
 
