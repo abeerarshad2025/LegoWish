@@ -21,6 +21,6 @@ LEGO sets & themes database and wishlist app
 
  ## 📅 Update History / Milestones
 
- #### 📝 5 Mar 2025
+ #### 📝 8 Mar 2025
 
  - Development started
