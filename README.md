@@ -1,8 +1,8 @@
 # LegoWish
 
-LEGO sets & themes database and wishlist app
-
 ## [[demo](http://abeerration.unaux.com/LegoWish)]
+
+LEGO sets & themes database and wishlist app
 
 <div align="center">
   <img src="LEGO Sets & Themes Database (1949-2023).jpg" align="center"/>
