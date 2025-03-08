@@ -1,4 +1,4 @@
-# LegoWish
+# LegoWish [demo](http://abeerration.unaux.com/LegoWish)
 
 LEGO sets & themes database and wishlist app
 
